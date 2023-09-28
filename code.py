@@ -5,7 +5,6 @@ def twosum(nums, target):
             if nums[i] + nums[j] == target:
                 return [i, j]
 
-
 n = [6, 4, 4, 3]
 t = 10 
 
